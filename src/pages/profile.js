@@ -1,27 +1,27 @@
 export const skills = [
     {
         skill: "JavaScript",
+        percentage: 70,
+    },
+    {
+        skill: "Php",
+        percentage: 70,
+    },
+    {
+        skill: "C#",
         percentage: 100,
     },
     {
-        skill: "TypeScript",
-        percentage: 60,
-    },
-    {
-        skill: "Node.js",
+        skill: "Asp.net",
         percentage: 100,
     },
     {
-        skill: "Next.js",
-        percentage: 100,
+        skill: "Sql Server",
+        percentage: 90,
     },
     {
-        skill: "MongoDB",
-        percentage: 100,
-    },
-    {
-        skill: "React.js",
-        percentage: 100,
+        skill: "Flutter",
+        percentage: 70,
     },
     {
         skill: "Bootstrap",
@@ -31,24 +31,24 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Software developer at Microsoft",
+        title: "Junior developer PsManager",
         description:
-            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-        from: 2000,
+            "Desarrollador en PHP, Microsof ASP y Javascript",
+        from: 2003,
         to: 2005,
     },
     {
-        title: "Software developer at Google",
+        title: "Software developer at DDB",
         description:
-            "Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo Contenido aquí, contenido aquí. Estos textos hacen parecerlo un español que se puede leer.",
+            "Desarrollador en PHP, Microsof ASP y  ASP.net y Javascript",
         from: 2005,
         to: 2007,
     },
     {
-        title: "Software developer at SpaceX",
+        title: "Software developer at Lad Fast S.A",
         description:
-            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
-        from: 2010,
+            "Desarrollador en c# Windows Form , ASP.net,  Javascript y desarrollo de aplicaciones de Flutter",
+        from: 2007,
     },
 ];
 
